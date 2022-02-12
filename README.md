@@ -1,7 +1,7 @@
 # Intel Image Classification With Deployment
 
 In this project, i will be working on Intel images i.e. images of buildings, forest, street, etc. Build the model then deploy it in web application.<br><br>
-<img src='Intel Image Classification.png' width=300 height=300><br><br>
+<img src='Intel Image Classification.png'><br><br>
 This is a multi class classification problem.<br><br>
 the data contains 6 classes:<br><br>
 **1 - Buildings<br><br>**
